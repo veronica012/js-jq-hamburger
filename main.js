@@ -8,3 +8,9 @@ $('.fa-times').click(function(){
 
     $('.hamburger-menu').hide();
 })
+
+
+// //$('.fa-bars').click(function() {
+//     //il menu diventa visibile
+//     $('.hamburger-menu').show();
+// })
